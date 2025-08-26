@@ -33,7 +33,7 @@ class script(object):
 /connections"""
 
     ABOUT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟  {}</b>
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/Lord_Vasudev_Krishna>sᴜʙᴀʀᴜ</a></b>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/Lord_Vasudev_Krishna>𝚂𝚑𝚛𝚎𝚎 ꪎ 𝙺ʀɪ𝚜ʜɴᴀ ჯ ↝ 🍷</a></b>
 <b>➢ ᴄʜᴀɴɴᴇʟ  ⋟  <a href=https://t.me/SECRECT_BOT_UPDATES>Sᴇᴄʀᴇᴄᴛ 𝐁ᴏᴛ 𝐔ᴘᴅᴀᴛᴇs</a></b>
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟  <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a></b>
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟  <a href=https://www.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a></b>
